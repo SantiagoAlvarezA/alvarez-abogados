@@ -1,27 +1,27 @@
 [
     {
         "id": 1,
-        "url":"/logo-horizontal-black-alvarez-bufete-de-abogados.svg",
+        "url":"https://raw.githubusercontent.com/SantiagoAlvarezA/alvarez-abogados/main/public/img/icons/fondo.jpg",
         "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptate ducimus, sed, pariatur veniam beatae voluptatum nihil qui sit in aperiam debitis animi architecto est. Ullam dolores excepturi sapiente ut maxime? Maiores adipisci exercitationem suscipit alias rem quibusdam accusamus accusantium doloremque quia voluptates totam aliquam, ratione quasi molestias? Sint, voluptates velit. Odit praesentium amet eum obcaecati minus rerum, atque voluptates aspernatur."
     },
     {
         "id": 2,
-        "url":"/alvarez-abogados/img/icons/portada-02.jpg",
+        "url":"https://raw.githubusercontent.com/SantiagoAlvarezA/alvarez-abogados/main/public/img/icons/portada-02.jpg",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi molestiae dicta quae. Nostrum excepturi est, iure ratione nulla dicta quasi soluta iusto corporis deserunt et accusantium porro labore sit commodi dolores vitae eaque beatae, adipisci ipsum dolor impedit explicabo? Officiis expedita corporis ab aspernatur velit accusantium consequuntur aliquam quod ullam."
     },
     {
         "id": 3,
-        "url":"/alvarez-abogados/img/icons/portada-03.jpg",
+        "url":"https://raw.githubusercontent.com/SantiagoAlvarezA/alvarez-abogados/main/public/img/icons/portada-03.jpg",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus sapiente expedita dolore quisquam aspernatur non explicabo, error ea doloribus veniam reiciendis id delectus ducimus velit laudantium similique iure hic! Quam necessitatibus deleniti libero! Fugiat itaque ipsum quod, id molestias quibusdam repellat ut impedit deleniti quaerat et officiis corrupti, quam ab dignissimos reprehenderit cumque porro laboriosam dicta quo, ullam libero aperiam voluptatum magni! Dolore consequuntur modi sunt. Voluptate dolorum, veritatis iure atque nostrum ipsam qui esse consequatur cumque necessitatibus enim reiciendis praesentium dolor magni architecto! Iste aliquid earum error. Aperiam repudiandae aliquid quam consectetur optio harum necessitatibus beatae nihil suscipit laboriosam accusantium neque, dolor nobis, quis pariatur eaque illum ex mollitia culpa voluptatibus non. Est impedit ea velit, autem placeat porro."
     },
     {
         "id": 4,
-        "url":"/alvarez-abogados/img/icons/portada-07.jpg",
+        "url":"https://raw.githubusercontent.com/SantiagoAlvarezA/alvarez-abogados/main/public/img/icons/portada-07.jpg",
         "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aperiam veritatis enim fugiat sapiente consectetur, quibusdam quisquam repellendus ea ipsam voluptatum voluptatibus hic error dolor velit dolorem, harum voluptas rerum debitis quod. Illo harum minima delectus ea exercitationem fuga ducimus et, soluta vero esse placeat quod officiis, voluptatem pariatur alias. Beatae veniam accusamus, cupiditate ex sunt explicabo laudantium praesentium repudiandae voluptatem, obcaecati asperiores provident facilis autem at officia suscipit consequatur expedita perspiciatis harum. Iusto amet eius impedit, ipsam minus reiciendis facilis?"
     },
     {
         "id": 5,
-        "url":"/alvarez-abogados/img/icons/portada-08.jpg",
+        "url":"https://raw.githubusercontent.com/SantiagoAlvarezA/alvarez-abogados/main/public/img/icons/portada-08.jpg",
         "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci unde cumque deleniti ea, nihil in rem perferendis obcaecati explicabo soluta aliquid quisquam quasi consectetur quibusdam autem aperiam voluptates pariatur corporis sint rerum eum! Tempore voluptas quia sit nemo tempora eos sapiente fugiat incidunt deserunt! Ipsam aperiam error aut accusamus quae temporibus molestias repellat corporis, harum numquam quibusdam voluptatem voluptatum ratione!"
     }
 ]
