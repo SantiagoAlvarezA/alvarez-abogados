@@ -1,7 +1,7 @@
 <template>
   <div class="container mx-auto">
 
-    <div class="grid grid-cols-4 grid-rows-6 gap-1 h-screen -mb-30  justify-center">
+    <div id="homeImg" class="grid grid-cols-4 grid-rows-6 gap-1 h-screen -mb-30  justify-center">
   
       <img class="col-span-2 col-start-2 col-end-4 row-span-3 row-start-1 h-full w-full" src="../assets/logo-800x640.svg" alt="Alvarez bufete de abogados">
       <div class="col-span-2 text-black col-start-2 col-end-4 row-span-1 row-start-4  text-center"> 
@@ -13,7 +13,6 @@
         <img class="mx-auto h-6 lg:h-10 w-8 lg:w-10" src="../assets/see-more.svg" alt="Ver mas" srcset="../assets/see-more.svg">
       </div>
     </div>
-
 
     <div class="items-center flex" v-for="item of items" :key="item.id">
      <!-- <p class="
@@ -45,12 +44,10 @@ export default {
   setup() {
     const store = useStore();
     onMounted(() => {
-      store.dispatch("getData");
+      store.dispatch("getData")
     });
-
     const items = computed(() => store.state.home);
-
-    return { items };
+    return { items};
   },
 };
 </script>
